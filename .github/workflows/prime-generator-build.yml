@@ -1,4 +1,4 @@
-name: CI Pipeline for the Prime Generator Project
+name: Build Pipeline for the Prime Generator Project
 
 on: [ push ]
 
