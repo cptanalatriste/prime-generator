@@ -1,5 +1,3 @@
-package uk.ac.open.primegenerator;
-
 import org.junit.Assert;
 import org.junit.Test;
 import org.apache.commons.math3.primes.Primes;

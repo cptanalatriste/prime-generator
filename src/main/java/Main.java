@@ -1,5 +1,3 @@
-package uk.ac.open.primegenerator;
-
 public class Main {
 
     public int generatePrime() {
